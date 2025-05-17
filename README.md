@@ -82,3 +82,12 @@ The E-Learning Platform UI is a comprehensive front-end web project that merges 
 
 Moving forward, this UI can be expanded with features like login authentication, course progress tracking with databases, and video playback using a backend service. I aim to continue building on this foundation to turn it into a fully functional LMS with real-world utility.
 
+# OUTPUT
+
+![Image](https://github.com/user-attachments/assets/4a4b3077-f569-4101-a159-a76d9255e085)
+
+![Image](https://github.com/user-attachments/assets/6d6bb50f-21ad-4343-82b5-45294168c152)
+
+![Image](https://github.com/user-attachments/assets/3e2bb040-d411-4980-8dcb-5acf4ce40360)
+
+![Image](https://github.com/user-attachments/assets/7eedb20a-2354-457b-8b9c-8470886f76b4)
